@@ -3,14 +3,8 @@
 ## Descripción
 ¿Buscas esos archivos de atasco que fueron eliminados de firmwares personalizados? Aquí están. Solo para fines educativos, por supuesto.
 
-## Demo de video enfermo
-
-/
-
 ## Uso
 Agregue estos archivos a `/subghz/` en su flipper cero (preferiblemente en un nuevo directorio llamado "jamming") y acceda a ellos utilizando la aplicación Sub-GHZ.
-
-#### Guía completa: https://thecomputernoob.com/flipper- cero-jamming
 
 ## Descargo de responsabilidad
 * Si no sabe lo que está haciendo con estos archivos, probablemente no debería intentarlo
