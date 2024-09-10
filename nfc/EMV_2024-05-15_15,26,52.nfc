@@ -1,0 +1,34 @@
+Filetype: Flipper NFC device
+Version: 4
+# Device type can be ISO14443-3A, ISO14443-3B, ISO14443-4A, ISO14443-4B, ISO15693-3, FeliCa, NTAG/Ultralight, Mifare Classic, Mifare DESFire, SLIX, ST25TB, EMV
+Device type: EMV
+# UID is common for all formats
+UID: D7 2C 6B D4
+# ISO14443-3A specific data
+ATQA: 00 04
+SAK: 20
+# ISO14443-4A specific data
+T0: 78
+TA(1): 80
+TB(1): 72
+TC(1): 02
+T1...Tk: 80 31 80 66 B1 84 0C 01 6E 01 83 00 90 00
+# EMV specific data:
+
+Cardholder name: CARDHOLDER/VISA
+Application name: 
+Application label: US DEBIT
+PAN length: 8
+PAN: 44 35 89 00 01 06 70 09
+AID length: 7
+AID: A0 00 00 00 98 08 40
+Application interchange profile: 00 00
+Country code: 40 08
+Currency code: 00 00
+Expiration year: 26
+Expiration month: 07
+Expiration day: 00
+Effective year: 00
+Effective month: 00
+Effective day: 00
+PIN try counter: 196609
