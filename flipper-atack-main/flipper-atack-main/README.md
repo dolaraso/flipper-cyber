@@ -1,4 +1,4 @@
-# Ingenials 3.0 UDLA - Scripts de PowerShell para Flipper Zero
+#Scripts de PowerShell para Flipper Zero
 
 Este repositorio contiene una colección de scripts de PowerShell diseñados específicamente para ser utilizados con el dispositivo Flipper Zero en el contexto de la competencia Ingenials 3.0, organizada por la Universidad de las Américas (UDLA). Estos scripts están orientados a facilitar y automatizar tareas de ciberseguridad durante la competencia, permitiendo a los participantes enfocarse en estrategias y análisis más complejos.
 
