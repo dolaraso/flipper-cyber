@@ -28,8 +28,10 @@ Animaciones personalizadas para agregar un toque visual único a tu dispositivo 
 
 - Animaciones en diferentes formatos.
 - Guía para instalar y personalizar las animaciones.
+### 5. paginas html para evil portal del flipper zero
+paginas web de diversas entidades  de servivcios 
 
-### 5. Scripts BadUSB
+### 6. Scripts BadUSB
 Esta sección contiene scripts **BadUSB** para el Flipper Zero, los cuales simulan el comportamiento de un teclado USB para ejecutar comandos automáticamente en un ordenador. Estos scripts pueden ser utilizados para realizar diferentes tareas automatizadas o pentesting.
 
 - Scripts para automatización de tareas en Windows y Linux.
