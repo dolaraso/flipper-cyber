@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 24
+Active frames: 0
+Frames order: 0 1 2 3 4 5 0 1 2 3 4 5 0 1 2 3 4 5 0 1 2 3 4 5
+Active cycles: 0
+Frame rate: 2
+Duration: 3600
+Active cooldown: 0
+
+Bubble slots: 1
+
+Slot: 0
+X: 50
+Y: 35
+Text: Take The RedPill
+AlignH: Left
+AlignV: Bottom
+StartFrame: 2
+EndFrame: 4
